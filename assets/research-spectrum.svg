@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 400" aria-hidden="true">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f5f8b" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#d49b42" stop-opacity=".26"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="618" height="398" rx="42" fill="url(#fade)" stroke="#7598ad" stroke-opacity=".16"/>
+  <g transform="translate(72 48)" fill="none">
+    <path d="M0 152H470" stroke="#55778c" stroke-opacity=".35"/>
+    <path d="M235 0V304" stroke="#55778c" stroke-opacity=".35"/>
+    <ellipse cx="235" cy="152" rx="205" ry="99" stroke="#1f5f8b" stroke-width="3" stroke-opacity=".58"/>
+    <path d="M35 260C111 103 168 55 235 55s124 48 200 205" stroke="#d49b42" stroke-width="3" stroke-opacity=".62"/>
+    <path d="M38 152c62-68 129-102 197-102s136 34 198 102" stroke="#7ca7bf" stroke-width="2" stroke-dasharray="7 9" stroke-opacity=".48"/>
+    <g fill="#164767" stroke="none" opacity=".78">
+      <circle cx="70" cy="172" r="5"/>
+      <circle cx="112" cy="104" r="5"/>
+      <circle cx="165" cy="75" r="5"/>
+      <circle cx="205" cy="132" r="5"/>
+      <circle cx="262" cy="96" r="5"/>
+      <circle cx="314" cy="128" r="5"/>
+      <circle cx="371" cy="194" r="5"/>
+      <circle cx="420" cy="151" r="5"/>
+    </g>
+  </g>
+</svg>

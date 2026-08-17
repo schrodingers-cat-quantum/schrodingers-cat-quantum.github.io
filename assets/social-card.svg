@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef4f8"/>
+      <stop offset="1" stop-color="#c9dce8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <ellipse cx="912" cy="322" rx="210" ry="105" fill="none" stroke="#1f5f8b" stroke-width="8" opacity=".55"/>
+  <path d="M690 500c84-191 150-270 224-270s140 79 224 270" fill="none" stroke="#d49b42" stroke-width="8" opacity=".55"/>
+  <text x="90" y="250" font-family="Georgia,serif" font-size="90" fill="#142b3a">Guo-Hua Xu</text>
+  <text x="96" y="323" font-family="Arial,sans-serif" font-size="30" fill="#315d76">Nonequilibrium statistical physics</text>
+  <text x="96" y="382" font-family="Arial,sans-serif" font-size="23" fill="#526b7a">Stochastic thermodynamics · Markov spectra · Geometric bounds</text>
+</svg>
